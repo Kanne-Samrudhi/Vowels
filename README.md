@@ -4,11 +4,13 @@ Count the number of vowels if the vowels count is greater than 4 then print true
 
 Sample Input:
 Kanne Samrudhi
+_______________
 output:
 true
 
 Sample Input:
 Kanne
+_______________
 output:
 false
 
