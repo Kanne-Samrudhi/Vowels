@@ -7,7 +7,7 @@ Kanne Samrudhi
 _______________
 output:
 true
-
+-----------------
 Sample Input:
 Kanne
 _______________
